@@ -1,0 +1,38 @@
+{
+  "canal": "Disparate FC",
+  "fecha": "2026-11-26",
+  "videos": [
+    {
+      "orden": 1,
+      "archivo": "2026-11-26_1_silencio-que-es-gol.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/disparate-fc-videos/main/2026-11-26/2026-11-26_1_silencio-que-es-gol.mp4",
+      "publicar_en": "2026-11-26T17:30:00+01:00",
+      "zona_horaria": "Europe/Madrid",
+      "titulo": "Marcó un gol… en la biblioteca 🤫⚽",
+      "descripcion": "Ramiro ha marcado un golazo… en la biblioteca. Y en la biblioteca no se grita. 🤫\nAsí que lo grita por dentro… y se hincha como un globo hasta llegar al espacio. 🎈🚀\n\nDebut de Don Pito, el árbitro-silbato.\nDisparate FC es el club de fútbol más absurdo del mundo: personajes y animación originales.\n\nVoces generadas con IA. Música y efectos originales.\n\n#Shorts #DisparateFC #DibujosAnimados",
+      "hashtags": [
+        "#Shorts",
+        "#DisparateFC",
+        "#DibujosAnimados"
+      ],
+      "etiquetas": [
+        "disparate fc",
+        "dibujos animados",
+        "animación",
+        "fútbol",
+        "humor",
+        "humor absurdo",
+        "biblioteca",
+        "espacio",
+        "globo",
+        "cortos animados"
+      ],
+      "categoria_id": "1",
+      "idioma": "es",
+      "para_ninos": true,
+      "contenido_sintetico_realista": false,
+      "privacidad_hasta_publicar": "private",
+      "duracion_s": 38
+    }
+  ]
+}

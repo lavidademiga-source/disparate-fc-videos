@@ -1,0 +1,38 @@
+{
+  "canal": "Disparate FC",
+  "fecha": "2026-11-27",
+  "videos": [
+    {
+      "orden": 1,
+      "archivo": "2026-11-27_1_ojito-tiene-hipo.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/disparate-fc-videos/main/2026-11-27/2026-11-27_1_ojito-tiene-hipo.mp4",
+      "publicar_en": "2026-11-27T17:30:00+01:00",
+      "zona_horaria": "Europe/Madrid",
+      "titulo": "¡El balón tiene HIPO y se teletransporta! 😱⚽",
+      "descripcion": "Ojito tiene hipo… y con cada «¡hip!» se teletransporta. 😱\nRamiro le da un susto, Prisas trae agua (y un pez), Armario le regala una caja que pone SUSTO… y Dramón se desmaya. ¿Funcionará? 🤣\n\nDisparate FC es el club de fútbol más absurdo del mundo: personajes y animación originales.\n\nVoces generadas con IA. Música y efectos originales.\n\n#Shorts #DisparateFC #DibujosAnimados",
+      "hashtags": [
+        "#Shorts",
+        "#DisparateFC",
+        "#DibujosAnimados"
+      ],
+      "etiquetas": [
+        "disparate fc",
+        "dibujos animados",
+        "animación",
+        "fútbol",
+        "humor",
+        "hipo",
+        "teletransporte",
+        "cortos animados",
+        "dibujos de fútbol",
+        "humor absurdo"
+      ],
+      "categoria_id": "1",
+      "idioma": "es",
+      "para_ninos": true,
+      "contenido_sintetico_realista": false,
+      "privacidad_hasta_publicar": "private",
+      "duracion_s": 45
+    }
+  ]
+}
