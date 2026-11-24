@@ -1,0 +1,39 @@
+{
+  "canal": "Disparate FC",
+  "fecha": "2026-12-03",
+  "videos": [
+    {
+      "orden": 1,
+      "archivo": "2026-12-03_1_don-pito-afonico.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/disparate-fc-videos/main/2026-12-03/2026-12-03_1_don-pito-afonico.mp4",
+      "publicar_en": "2026-12-03T17:30:00+01:00",
+      "zona_horaria": "Europe/Madrid",
+      "titulo": "El árbitro se quedó afónico… y pitó con una TETERA 🫖⚽",
+      "descripcion": "¡Gol de Ramiro! Pero Don Pito, el árbitro-silbato, se ha quedado afónico y solo le sale un «fff…». Y sin pitido… ¡el gol no cuenta! 😱\nAsí que el equipo le busca sustitutos: un pato de goma 🦆, una trompeta gigante 🎺… y la tetera de la abuela de Dramón 🫖. ¿Cuál pitará mejor? ¡Y atentos al final!\n\nDisparate FC es el club de fútbol más absurdo del mundo: personajes y animación originales.\n\nVoces generadas con IA. Música y efectos originales.\n\n#Shorts #DisparateFC #DibujosAnimados",
+      "hashtags": [
+        "#Shorts",
+        "#DisparateFC",
+        "#DibujosAnimados"
+      ],
+      "etiquetas": [
+        "disparate fc",
+        "dibujos animados",
+        "animación",
+        "fútbol",
+        "humor",
+        "humor absurdo",
+        "árbitro",
+        "pato de goma",
+        "trompeta",
+        "tetera",
+        "cortos animados"
+      ],
+      "categoria_id": "1",
+      "idioma": "es",
+      "para_ninos": true,
+      "contenido_sintetico_realista": false,
+      "privacidad_hasta_publicar": "private",
+      "duracion_s": 43
+    }
+  ]
+}
