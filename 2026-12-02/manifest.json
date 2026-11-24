@@ -1,0 +1,38 @@
+{
+  "canal": "Disparate FC",
+  "fecha": "2026-12-02",
+  "videos": [
+    {
+      "orden": 1,
+      "archivo": "2026-12-02_1_saque-de-esquina.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/disparate-fc-videos/main/2026-12-02/2026-12-02_1_saque-de-esquina.mp4",
+      "publicar_en": "2026-12-02T17:30:00+01:00",
+      "zona_horaria": "Europe/Madrid",
+      "titulo": "Fue a sacar de esquina… y dio la vuelta al MUNDO 🌍⚽",
+      "descripcion": "¡Córner para Disparate FC! Pero Prisas no sabe dónde está «la esquina»… 🤔\nAsí que sale corriendo a buscarla: le pregunta a un pingüino en el Polo Sur y una astronauta le cuenta que la Tierra es redonda. 🐧🚀\n¿Y la esquina? ¡Estaba justo a su lado! Y lo mejor viene cuando por fin saca… 🌍⚽\n\nDisparate FC es el club de fútbol más absurdo del mundo: personajes y animación originales.\n\nVoces generadas con IA. Música y efectos originales.\n\n#Shorts #DisparateFC #DibujosAnimados",
+      "hashtags": [
+        "#Shorts",
+        "#DisparateFC",
+        "#DibujosAnimados"
+      ],
+      "etiquetas": [
+        "disparate fc",
+        "dibujos animados",
+        "animación",
+        "fútbol",
+        "humor",
+        "humor absurdo",
+        "córner",
+        "vuelta al mundo",
+        "pingüino",
+        "cortos animados"
+      ],
+      "categoria_id": "1",
+      "idioma": "es",
+      "para_ninos": true,
+      "contenido_sintetico_realista": false,
+      "privacidad_hasta_publicar": "private",
+      "duracion_s": 37
+    }
+  ]
+}
