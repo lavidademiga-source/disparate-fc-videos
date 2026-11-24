@@ -1,0 +1,38 @@
+{
+  "canal": "Disparate FC",
+  "fecha": "2026-12-01",
+  "videos": [
+    {
+      "orden": 1,
+      "archivo": "2026-12-01_1_celebracion-barata.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/disparate-fc-videos/main/2026-12-01/2026-12-01_1_celebracion-barata.mp4",
+      "publicar_en": "2026-12-01T17:30:00+01:00",
+      "zona_horaria": "Europe/Madrid",
+      "titulo": "Compró la celebración más BARATA… y se durmió 😴⚽",
+      "descripcion": "Ramiro quiere la celebración más espectacular del mundo. 🚀\nEn la tienda de Chispa prueba la celebración cohete… pero cuesta UN MILLÓN. Así que se lleva la de oferta: ¡un euro!\n¿Habrá leído la letra pequeña? Mete un golazo, abre su celebración… y le entra un sueño enorme. 😴\n\nDisparate FC es el club de fútbol más absurdo del mundo: personajes y animación originales.\n\nVoces generadas con IA. Música y efectos originales.\n\n#Shorts #DisparateFC #DibujosAnimados",
+      "hashtags": [
+        "#Shorts",
+        "#DisparateFC",
+        "#DibujosAnimados"
+      ],
+      "etiquetas": [
+        "disparate fc",
+        "dibujos animados",
+        "animación",
+        "fútbol",
+        "humor",
+        "humor absurdo",
+        "celebración",
+        "siesta",
+        "cohete",
+        "cortos animados"
+      ],
+      "categoria_id": "1",
+      "idioma": "es",
+      "para_ninos": true,
+      "contenido_sintetico_realista": false,
+      "privacidad_hasta_publicar": "private",
+      "duracion_s": 44
+    }
+  ]
+}
